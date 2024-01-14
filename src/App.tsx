@@ -1,7 +1,6 @@
 import { Grid, Rating } from "@mui/material";
 import Button from "@mui/material/Button";
 import Box from "@mui/system/Box";
-import { palette } from "@mui/material";
 import Dashboard from "./views/dashboard";
 
 function App() {
